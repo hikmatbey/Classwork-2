@@ -1,0 +1,19 @@
+#general{display:flex;
+justify-content: center;
+align-content: center;
+margin-top: 200px;
+margin-bottom: 200px;
+gap: 15px; }
+.umumi{ width: 360px; height: 550px;box-shadow: 2px 2px 4px 2px 
+    rgb(171, 171, 171); }
+
+img{width: 360px; height: 250px;}
+.jan{font-weight: 100; opacity: 0.3; font-family: 'poppins';}
+.com{font-weight: 100; opacity: 0.3; font-family: 'poppins' ; padding-left: 15px; }
+.date{padding-left: 20px;}
+
+.read{display:flex;
+align-items: center;font-weight: 500; opacity: 0.4; font-family: 'poppins';}
+
+p{font-size: medium;font-weight: 500;opacity: 0.4;font-family:'poppins'; }
+h4{font-family: 'poppins'; font-size:larger ; font-weight:bolder;color: rgb(94, 94, 94); }
